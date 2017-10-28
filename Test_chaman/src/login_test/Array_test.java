@@ -5,12 +5,6 @@ import java.lang.reflect.Array;
 public class Array_test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		// Array[] arr=new Array[6];
-		// arr[0]=3;
-		// arr={9,10,2,5,6,8};
-		// Array[] a=new Array[9];
-
 		String name = "abc";
 		for (int i = 1; i<= name.length() - 1; i++) {
 			char find = name.charAt(i);
