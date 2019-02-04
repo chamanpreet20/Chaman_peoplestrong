@@ -1,0 +1,38 @@
+Open Jmeter.properties file.
+
+Search for “httpsampler.max_redirects” property in opened file.
+
+comment it with # and change to 5 from 20.
+
+
+#http.java.sampler.retries- change from 50 to 10
+
+16:49
+next-
+17:33- 18:11
+
+12th-
+
+upto 11:30- 7 users
+8 users- 11:46- 12:33
+9 users- 12:47- 13:39
+10 user- 15:00- 16:00- success
+12 user- 16:30- 16:50
+
+13th-
+11 user- 10:29-11:27   5:00-6:00
+12 user- 13:36-
+
+memory- 85%
+CPU- above 80% reaching upto 97%
+
+13:45
+
+live server
+28GB ram
+2.2GHZ intel xeon(R) 
+
+11:20- wfe  16:40   5:20 min before
+11:19  -db
+
+
