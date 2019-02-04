@@ -1,0 +1,29 @@
+-Extracting Data From WebTable
+-Extracting data from excel file-------done
+-Attaching files with Selenium / Usage of AutoIT/Robot----- done
+-Changing your facebook profile picture by attaching new picture
+-Downloading files using selenium
+-Password Encoding in selenium
+-Proxy settings with webdriver/Working with proxy Servers
+-Handling Dynamic objects/ids on the page
+-Working with different browsers without changing code
+-Extracting all links of a page------ done
+-Handling drop down list------ done
+-Working with frames------- done
+-Managing radio buttons and Checkboxes------done
+-Hidden components
+-Taking Screenshots of the web pages--------done
+-storing Screenshots of errors
+-Implicit , Explicit and Fluent waits
+-WaitUntil Condition
+-Managing popups in IE, Chrome and Mozilla
+-Exceptional handling
+-breakpoints
+-Verification points.
+
+2018
+
+-- Use of Docker in selenium project-- for creating environment to run which destorys after execution
+-- Running project by exporting it to jar file- can be run in any machine
+-- Abstraction in code ( implication of OOPS concepts in selenium code)
+
