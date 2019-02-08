@@ -1,9 +1,0 @@
-Networking- 
-
-Different layers
-VPN,- router
-MPLS,- router
-Firewall
-proxy server
-Protocol- TCP, UDP
-packet timeout
